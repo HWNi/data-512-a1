@@ -9,10 +9,10 @@ If not, please first install all the prerequisites list below and then run the '
 
 ### Prerequisites
 
-Python 3.0+
-Jupyter Notebook
-Pandas
-Matploblib
+Python 3.0+,
+Jupyter Notebook,
+Pandas,
+Matploblib,
 Seaborn
 
 ## Using Wikimedia REST API
