@@ -23,7 +23,7 @@ During data acquisition, user will need to collect data from two different API e
 *Pageviews API* ([Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through September 2017.
 
 ## Final data file
-Filename: *en-wikipedia_traffic_200801-201709.csv*
+Filename: [en-wikipedia_traffic_200801-201709.csv](https://github.com/HWNi/data-512-a1/blob/master/en-wikipedia_traffic_200801-201709.csv)
 
 All the English Wikipedia traffic data processed in this assignment are finally combined into this CSV file as following:
 
