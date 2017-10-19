@@ -43,7 +43,7 @@ pageviews_desktop_views: number of page counts from mobile obtained from the tra
 
 pageviews_mobile_views: number of page views from mobile obtained from the traffic data using Pageviews API
 
-###Notice 
+### Notice 
 *All the traffic data (i.e. number of page counts or views) exclude the traffic by web crawlers or spiders.*
 
 *For the mobile traffic data from Pageviews API, the author combined both moible website traffic data and mobile app traffic data*
